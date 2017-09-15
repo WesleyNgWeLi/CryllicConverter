@@ -4,11 +4,23 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace CryllicConverterTests
 {
     [TestClass]
-    public class UnitTest1
+    public class ConsoleHelperTests
     {
         [TestMethod]
-        public void TestMethod1()
+        public void GetInputShouldReturnPopulatedStringIfInputIsAlphanumeric()
         {
         }
+
+        [TestMethod]
+        public void ValidateIsAlphanumericShouldReturnTrueIfAlphabetsAndNumbersOnly()
+        {
+        }
+
+        [TestMethod]
+        public void ValidateIsAlphanumericShouldReturnFalseIfNotAlphabetsAndNumbersOnly()
+        {
+        }
+
+
     }
 }

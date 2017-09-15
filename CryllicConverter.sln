@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.15
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryllicConverter", "CryllicConverter\CryllicConverter.csproj", "{3BB51BE5-40F8-4D07-9C8E-49F37A5BA895}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryllicConverterTests", "CryllicConverterTests\CryllicConverterTests.csproj", "{2BD1D303-C3E2-4527-B2B1-DF3CFABF5C52}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3BB51BE5-40F8-4D07-9C8E-49F37A5BA895}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BB51BE5-40F8-4D07-9C8E-49F37A5BA895}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BB51BE5-40F8-4D07-9C8E-49F37A5BA895}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BD1D303-C3E2-4527-B2B1-DF3CFABF5C52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BD1D303-C3E2-4527-B2B1-DF3CFABF5C52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BD1D303-C3E2-4527-B2B1-DF3CFABF5C52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BD1D303-C3E2-4527-B2B1-DF3CFABF5C52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
