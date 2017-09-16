@@ -1,0 +1,7 @@
+D:\Users\Wesley\Projects\CryllicConverter\CryllicConverter\bin\Debug\CryllicConverter.exe.config
+D:\Users\Wesley\Projects\CryllicConverter\CryllicConverter\bin\Debug\CryllicConverter.exe
+D:\Users\Wesley\Projects\CryllicConverter\CryllicConverter\bin\Debug\CryllicConverter.pdb
+D:\Users\Wesley\Projects\CryllicConverter\CryllicConverter\obj\Debug\CryllicConverter.csprojResolveAssemblyReference.cache
+D:\Users\Wesley\Projects\CryllicConverter\CryllicConverter\obj\Debug\CryllicConverter.csproj.CoreCompileInputs.cache
+D:\Users\Wesley\Projects\CryllicConverter\CryllicConverter\obj\Debug\CryllicConverter.exe
+D:\Users\Wesley\Projects\CryllicConverter\CryllicConverter\obj\Debug\CryllicConverter.pdb

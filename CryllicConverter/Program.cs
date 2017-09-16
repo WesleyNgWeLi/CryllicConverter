@@ -10,6 +10,8 @@ namespace CryllicConverter
     {
         static void Main(string[] args)
         {
+            DictionaryHelper DH = new DictionaryHelper();
+            DH.DoEncode();
         }
     }
 }
